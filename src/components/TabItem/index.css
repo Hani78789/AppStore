@@ -1,0 +1,14 @@
+.tab-item {
+  color: #7b8794;
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.active-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
+
+
